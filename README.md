@@ -1,2 +1,2 @@
-commented Python code going through Numpy + Pandas, Matplotlib + Seaborn, Scikitlearn, matrix operations, OOP, data structures, and algorithm fundementals.<br><br>
+commented Python code exploring data structures, matrix operations, search + sort algorithms, and object oriented programming<br><br>
 check out the Jupyter notebooks!
